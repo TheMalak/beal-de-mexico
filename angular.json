@@ -30,7 +30,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.sass"
+              "src/app/styles/style.sass"
             ],
             "scripts": []
           },
